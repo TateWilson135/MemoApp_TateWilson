@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		558B94E92C7E6AC400264B7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B94E82C7E6AC400264B7B /* AppDelegate.swift */; };
 		558B94EB2C7E6AC400264B7B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B94EA2C7E6AC400264B7B /* SceneDelegate.swift */; };
-		558B94ED2C7E6AC400264B7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B94EC2C7E6AC400264B7B /* ViewController.swift */; };
 		558B94F02C7E6AC400264B7B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 558B94EF2C7E6AC400264B7B /* Base */; };
 		558B94F32C7E6AC400264B7B /* MemoApp_TateWilson.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 558B94F12C7E6AC400264B7B /* MemoApp_TateWilson.xcdatamodeld */; };
 		558B94F52C7E6AC600264B7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 558B94F42C7E6AC600264B7B /* Assets.xcassets */; };
@@ -20,7 +19,6 @@
 		558B94E52C7E6AC400264B7B /* MemoApp_TateWilson.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoApp_TateWilson.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		558B94E82C7E6AC400264B7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		558B94EA2C7E6AC400264B7B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		558B94EC2C7E6AC400264B7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		558B94EF2C7E6AC400264B7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		558B94F22C7E6AC400264B7B /* MemoApp_TateWilson.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MemoApp_TateWilson.xcdatamodel; sourceTree = "<group>"; };
 		558B94F42C7E6AC600264B7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 			children = (
 				558B94E82C7E6AC400264B7B /* AppDelegate.swift */,
 				558B94EA2C7E6AC400264B7B /* SceneDelegate.swift */,
-				558B94EC2C7E6AC400264B7B /* ViewController.swift */,
 				558B94EE2C7E6AC400264B7B /* Main.storyboard */,
 				558B94F42C7E6AC600264B7B /* Assets.xcassets */,
 				558B94F62C7E6AC600264B7B /* LaunchScreen.storyboard */,
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				558B94ED2C7E6AC400264B7B /* ViewController.swift in Sources */,
 				558B94E92C7E6AC400264B7B /* AppDelegate.swift in Sources */,
 				558B94EB2C7E6AC400264B7B /* SceneDelegate.swift in Sources */,
 				558B94F32C7E6AC400264B7B /* MemoApp_TateWilson.xcdatamodeld in Sources */,
